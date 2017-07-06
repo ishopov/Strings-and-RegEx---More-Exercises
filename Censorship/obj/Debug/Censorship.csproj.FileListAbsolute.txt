@@ -1,0 +1,6 @@
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Censorship\bin\Debug\Censorship.exe.config
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Censorship\bin\Debug\Censorship.exe
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Censorship\bin\Debug\Censorship.pdb
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Censorship\obj\Debug\Censorship.csprojResolveAssemblyReference.cache
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Censorship\obj\Debug\Censorship.exe
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Censorship\obj\Debug\Censorship.pdb

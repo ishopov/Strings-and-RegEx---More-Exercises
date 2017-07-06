@@ -1,0 +1,5 @@
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Email_Statistics\bin\Debug\Email_Statistics.exe.config
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Email_Statistics\bin\Debug\Email_Statistics.exe
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Email_Statistics\bin\Debug\Email_Statistics.pdb
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Email_Statistics\obj\Debug\Email_Statistics.exe
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Email_Statistics\obj\Debug\Email_Statistics.pdb
