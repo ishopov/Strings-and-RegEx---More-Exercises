@@ -1,0 +1,5 @@
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Morse_Code_Upgraded\bin\Debug\Morse_Code_Upgraded.exe.config
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Morse_Code_Upgraded\bin\Debug\Morse_Code_Upgraded.exe
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Morse_Code_Upgraded\bin\Debug\Morse_Code_Upgraded.pdb
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Morse_Code_Upgraded\obj\Debug\Morse_Code_Upgraded.exe
+D:\SoftUni\02. Technology Fundamentals\32. Strings and Regular Expressions - More Exercises\Strings and RegEx - More Exercises\Morse_Code_Upgraded\obj\Debug\Morse_Code_Upgraded.pdb
